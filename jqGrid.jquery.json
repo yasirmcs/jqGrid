@@ -1,6 +1,6 @@
 {
 	"name": "jqGrid",
-	"title": "jQuery jqGrid",
+	"title": "Guriddo jqGrid",
 	"description": "jqGrid is an Ajax-enabled JavaScript control that provides solutions for representing and manipulating tabular data on the web.",
 	"keywords": [
 		"grid",
@@ -12,34 +12,29 @@
 		"grouping",
 		"searching"
 	],
-	"version": "4.4.3",
+	"version": "5.2.0",
 	"author": {
 		"name": "Tony Tomov",
 		"email": "tony@trirand.com",
-		"url": "http://trirand.com"
+		"url": "http://guriddo.new"
 	},
 	"maintainers": [
 		{
 			"name": "Tony Tomov",
 			"email": "tony@trirand.com",
-			"url": "http://trirand.com"
+			"url": "http://guriddo.net"
 		}
 	],
 	"licenses": [
 		{
-			"type": "MIT",
-			"url": "http://www.trirand.com/blog/?page_id=87"
-		},
-		{
-			"type": "GPLv2",
-			"url": "http://www.trirand.com/blog/?page_id=91"
+		  "type": "Creative Commons Attribution-Non-Commercial 3.0 License",
+		  "url": "http://guriddo.net/?page_id=103334"
 		}
 	],
 	"bugs": "https://github.com/tonytomov/jqGrid/issues",
 	"homepage": "http://www.trirand.com",
 	"docs": "http://www.trirand.com/jqgridwiki/doku.php",
-	"download": "http://www.trirand.com/blog/?page_id=6",
 	"dependencies": {
-		"jquery": "1.4 - 1.8"
+		"jquery": ">=1.7"
 	}
 }

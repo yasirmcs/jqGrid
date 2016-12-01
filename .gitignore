@@ -1,5 +1,10 @@
+dist
+build
+bower_components
+node_modules
+nbproject
 compiler.jar
 yuicompressor.jar
-dist
-nbproject
 .gradle
+.DS_Store
+release
